@@ -1,0 +1,307 @@
+[
+  // Flutter Development Shortcuts
+  {
+    "key": "ctrl+f5",
+    "command": "flutter.hotReload",
+    "when": "dart-code:isDebugging"
+  },
+  {
+    "key": "ctrl+shift+f5",
+    "command": "flutter.hotRestart",
+    "when": "dart-code:isDebugging"
+  },
+  {
+    "key": "ctrl+f6",
+    "command": "flutter.openDevTools"
+  },
+  {
+    "key": "ctrl+shift+p",
+    "command": "workbench.action.showCommands"
+  },
+  {
+    "key": "f5",
+    "command": "flutter.startDebugging"
+  },
+  {
+    "key": "ctrl+f7",
+    "command": "flutter.selectDevice"
+  },
+  {
+    "key": "ctrl+shift+f7",
+    "command": "flutter.listEmulators"
+  },
+  {
+    "key": "ctrl+alt+w",
+    "command": "dart.openWidget"
+  },
+  {
+    "key": "ctrl+alt+s",
+    "command": "dart.openStateful"
+  },
+  {
+    "key": "ctrl+alt+l",
+    "command": "dart.openStateless"
+  },
+  {
+    "key": "ctrl+shift+r",
+    "command": "dart.refactor"
+  },
+  {
+    "key": "ctrl+shift+o",
+    "command": "dart.organizeImports"
+  },
+  // React Development Shortcuts
+  {
+    "key": "ctrl+shift+j",
+    "command": "extension.createReactFunctionalComponent"
+  },
+  {
+    "key": "ctrl+shift+c",
+    "command": "extension.createReactClassComponent"
+  },
+  {
+    "key": "ctrl+alt+r",
+    "command": "extension.refactorExtractComponent"
+  },
+  {
+    "key": "ctrl+shift+i",
+    "command": "typescript.goToImplementation"
+  },
+  {
+    "key": "ctrl+alt+f",
+    "command": "typescript.findAllReferences"
+  },
+  {
+    "key": "ctrl+shift+space",
+    "command": "editor.action.triggerParameterHints"
+  },
+  // General Development Shortcuts
+  {
+    "key": "ctrl+shift+`",
+    "command": "workbench.action.terminal.new"
+  },
+  {
+    "key": "ctrl+`",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "ctrl+shift+e",
+    "command": "workbench.view.explorer"
+  },
+  {
+    "key": "ctrl+shift+f",
+    "command": "workbench.view.search"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "workbench.view.scm"
+  },
+  {
+    "key": "ctrl+shift+d",
+    "command": "workbench.view.debug"
+  },
+  {
+    "key": "ctrl+shift+x",
+    "command": "workbench.view.extensions"
+  },
+  {
+    "key": "ctrl+k ctrl+s",
+    "command": "workbench.action.openGlobalKeybindings"
+  },
+  {
+    "key": "ctrl+,",
+    "command": "workbench.action.openSettings"
+  },
+  {
+    "key": "ctrl+shift+,",
+    "command": "workbench.action.openSettingsJson"
+  },
+  // File Operations
+  {
+    "key": "ctrl+shift+n",
+    "command": "workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "ctrl+alt+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "ctrl+shift+alt+n",
+    "command": "explorer.newFolder"
+  },
+  {
+    "key": "ctrl+p",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "ctrl+shift+p",
+    "command": "workbench.action.showCommands"
+  },
+  // Code Navigation
+  {
+    "key": "ctrl+t",
+    "command": "workbench.action.showAllSymbols"
+  },
+  {
+    "key": "ctrl+shift+o",
+    "command": "workbench.action.gotoSymbol"
+  },
+  {
+    "key": "ctrl+g",
+    "command": "workbench.action.gotoLine"
+  },
+  {
+    "key": "f12",
+    "command": "editor.action.revealDefinition"
+  },
+  {
+    "key": "ctrl+f12",
+    "command": "editor.action.goToImplementation"
+  },
+  {
+    "key": "shift+f12",
+    "command": "editor.action.goToReferences"
+  },
+  {
+    "key": "alt+f12",
+    "command": "editor.action.peekDefinition"
+  },
+  {
+    "key": "ctrl+shift+f12",
+    "command": "editor.action.peekImplementation"
+  },
+  // Code Editing
+  {
+    "key": "alt+up",
+    "command": "editor.action.moveLinesUpAction"
+  },
+  {
+    "key": "alt+down",
+    "command": "editor.action.moveLinesDownAction"
+  },
+  {
+    "key": "shift+alt+up",
+    "command": "editor.action.copyLinesUpAction"
+  },
+  {
+    "key": "shift+alt+down",
+    "command": "editor.action.copyLinesDownAction"
+  },
+  {
+    "key": "ctrl+shift+k",
+    "command": "editor.action.deleteLines"
+  },
+  {
+    "key": "ctrl+/",
+    "command": "editor.action.commentLine"
+  },
+  {
+    "key": "shift+alt+a",
+    "command": "editor.action.blockComment"
+  },
+  {
+    "key": "ctrl+k ctrl+f",
+    "command": "editor.action.formatSelection"
+  },
+  {
+    "key": "shift+alt+f",
+    "command": "editor.action.formatDocument"
+  },
+  {
+    "key": "ctrl+k ctrl+x",
+    "command": "editor.action.trimTrailingWhitespace"
+  },
+  // Multi-cursor and Selection
+  {
+    "key": "ctrl+alt+up",
+    "command": "editor.action.insertCursorAbove"
+  },
+  {
+    "key": "ctrl+alt+down",
+    "command": "editor.action.insertCursorBelow"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "editor.action.addSelectionToNextFindMatch"
+  },
+  {
+    "key": "ctrl+k ctrl+d",
+    "command": "editor.action.moveSelectionToNextFindMatch"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "editor.action.selectHighlights"
+  },
+  {
+    "key": "ctrl+f2",
+    "command": "editor.action.changeAll"
+  },
+  // Search and Replace
+  {
+    "key": "ctrl+f",
+    "command": "actions.find"
+  },
+  {
+    "key": "ctrl+h",
+    "command": "editor.action.startFindReplaceAction"
+  },
+  {
+    "key": "f3",
+    "command": "editor.action.nextMatchFindAction"
+  },
+  {
+    "key": "shift+f3",
+    "command": "editor.action.previousMatchFindAction"
+  },
+  {
+    "key": "alt+enter",
+    "command": "editor.action.selectAllMatches"
+  },
+  // Git Integration
+  {
+    "key": "ctrl+shift+g g",
+    "command": "git.openChange"
+  },
+  {
+    "key": "ctrl+k ctrl+o",
+    "command": "git.openFile"
+  },
+  {
+    "key": "ctrl+k o",
+    "command": "git.openFile2"
+  },
+  // IntelliSense and Suggestions
+  {
+    "key": "ctrl+space",
+    "command": "editor.action.triggerSuggest"
+  },
+  {
+    "key": "ctrl+shift+space",
+    "command": "editor.action.triggerParameterHints"
+  },
+  {
+    "key": "ctrl+i",
+    "command": "editor.action.showHover"
+  },
+  {
+    "key": "ctrl+.",
+    "command": "editor.action.quickFix"
+  },
+  {
+    "key": "f2",
+    "command": "editor.action.rename"
+  },
+  // Error Navigation
+  {
+    "key": "f8",
+    "command": "editor.action.marker.nextInFiles"
+  },
+  {
+    "key": "shift+f8",
+    "command": "editor.action.marker.prevInFiles"
+  },
+  {
+    "key": "ctrl+shift+m",
+    "command": "workbench.actions.view.problems"
+  }
+]

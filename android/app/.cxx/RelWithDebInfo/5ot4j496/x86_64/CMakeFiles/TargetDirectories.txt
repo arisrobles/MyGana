@@ -1,0 +1,2 @@
+C:/Users/Aris/OneDrive/Desktop/MyGana/android/app/.cxx/RelWithDebInfo/5ot4j496/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Aris/OneDrive/Desktop/MyGana/android/app/.cxx/RelWithDebInfo/5ot4j496/x86_64/CMakeFiles/rebuild_cache.dir

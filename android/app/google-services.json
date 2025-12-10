@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411380309891",
+    "project_id": "mygana-7b3c4",
+    "storage_bucket": "mygana-7b3c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411380309891:android:d52398e24cb0827ccee0b6",
+        "android_client_info": {
+          "package_name": "com.example.nihongo_japanese_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqu-bG0uVsvFAxBKrCep5XdFex-l4VjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

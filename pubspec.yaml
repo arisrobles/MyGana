@@ -1,0 +1,81 @@
+name: nihongo_japanese_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  confetti: ^0.7.0
+  sqflite: ^2.3.2
+  path: ^1.8.3
+  path_provider: ^2.0.0
+  sqlite3_flutter_libs: ^0.5.20
+  sqlite3: ^2.4.0
+  flutter_tts: ^3.8.5
+  speech_to_text: ^7.0.0
+  shared_preferences: ^2.5.3
+  provider: ^6.1.2
+  audioplayers: ^6.4.0
+  flutter_fortune_wheel: ^1.3.2
+  intl: ^0.20.2
+  flutter_svg: ^2.0.17
+  painter: ^2.0.0
+  webview_flutter: ^4.10.0
+  image: ^4.3.0
+  xml: ^6.5.0
+  image_picker: ^1.1.2
+  just_audio: ^0.9.34
+  firebase_core: ^2.24.2
+  firebase_database: ^10.3.8
+  firebase_auth: ^4.15.3
+  firebase_storage: ^11.6.5
+  firebase_app_check: ^0.2.2
+  uuid: ^4.5.1
+  translator: ^1.0.3+1
+  kana_kit: ^2.1.1
+  animated_text_kit: ^4.2.3
+  permission_handler: ^12.0.0+1
+  # OpenAI Vision API for character recognition
+  http: ^1.1.0
+  fl_chart: ^0.68.0
+  file_picker: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/appicon.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/MyGana.db
+    - assets/sounds/
+    - assets/images/
+    - assets/HiraganaSVG/
+    - assets/KatakanaSVG/
+    - assets/images/profile/
+    - assets/images/backgrounds/
+    - assets/images/characters/
+    - assets/models/
+    - assets/tessdata/
+    - assets/tessdata_config.json
+
+  fonts:
+    - family: TheLastShuriken
+      fonts:
+        - asset: assets/fonts/TheLastShuriken.otf
+
+    - family: Play
+      fonts:
+        - asset: assets/fonts/Play-Regular.ttf

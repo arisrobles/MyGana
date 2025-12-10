@@ -1,0 +1,1 @@
+C:\Users\jende\PLATERBOX\flutter_windows_3.16.8-stable\flutter\flutter\packages\flutter_tools\gradle\src\main\groovy\CMakeLists.txt

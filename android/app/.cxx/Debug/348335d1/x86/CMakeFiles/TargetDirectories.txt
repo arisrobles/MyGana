@@ -1,0 +1,2 @@
+D:/MyGana/MyganaV2/MyGana/android/app/.cxx/Debug/348335d1/x86/CMakeFiles/edit_cache.dir
+D:/MyGana/MyganaV2/MyGana/android/app/.cxx/Debug/348335d1/x86/CMakeFiles/rebuild_cache.dir
